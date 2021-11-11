@@ -36,7 +36,7 @@ export const products = [
     title: "Buy HomePod mini",
     image:
       "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/homepod-mini-select-blue-202110_FV1?wid=934&hei=440&fmt=jpeg&qlt=95&.v=1633086025000",
-    desc: "iri is your intelligent assistant on HomePod mini. Just use your voice to check your calendar or the weather, set alarms and complete everyday tasks.",
+    desc: "Siri is your intelligent assistant on HomePod mini. Just use your voice to check your calendar or the weather, set alarms and complete everyday tasks.",
     price: "9900.00",
   },
 ];
